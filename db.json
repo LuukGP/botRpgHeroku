@@ -1,0 +1,52 @@
+{
+  "749683842834628709": [
+    {
+      "16": 0,
+      "role": 4,
+      "cabelo": 2,
+      "loterica": 2,
+      "status": 2,
+      "whopper": 2,
+      "bongada": 4
+    }
+  ],
+  "450669594315587607": [
+    {
+      "16": 0,
+      "role": 4,
+      "cabelo": 2,
+      "loterica": 2,
+      "status": 2,
+      "whopper": 6,
+      "bongada": 12
+    }
+  ],
+  "765791642883588106": [
+    {
+      "16": 2,
+      "role": 10,
+      "cabelo": 2,
+      "loterica": 2,
+      "status": 3,
+      "whopper": 3,
+      "bongada": 10
+    }
+  ],
+  "587069982731665418": [
+    {
+      "16": 2,
+      "role": 4,
+      "cabelo": 2,
+      "loterica": 2,
+      "status": 2,
+      "whopper": 2,
+      "bongada": 4
+    }
+  ],
+  "hp": [
+    {
+      "iden": "288376418331525120",
+      "health": 60
+    }
+  ]
+}
